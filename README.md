@@ -1,5 +1,15 @@
-1. Aprilia Regina - 2007051050 (Membuat class Rekening.java, Perusahaan.java, Nasabah.java, Individu.java, Main.java (FinalProject) | Membuat file database | Partisipasi: debugging)
+## PBO - Final Project: Sistem Koperasi Simpan Pinjam - Kelompok 7
 
-2. M. Naufal Zafran Mustafa - 2007051034 (Membuat class: formNasabahController.java, | Membuat UI: formNasabah.fxml | Partisipasi: debugging)
+1) Ester Lusiana Siregar - 1917041073 (Membuat class Rekening.java, Main.java | Membuat file database | Partisipasi: debugging)
 
-3. Annida Putri Saganta - 2007051045 (Membuat class: DBHelper.java (SQLite), rekeningDataModel.java | Partisipasi: formNasabah.fxml, debugging)
+2) Kayla Atsila Ivanka - 2017051008 (Membuat class: Nasabah.java, NasabahFormController.java, DBHelper.java (SQLite) | Membuat UI: NasabahForm.fxml | Partisipasi: NasabahDataModel.java, debugging)
+
+3) Muhaymi Nurdin - 2017051070 (Membuat class: Individu.java, Perusahaan.java, NasabahDataModel.java, DBHelper.java (MySQL) | Partisipasi: NasabahForm.fxml, debugging)
+
+
+## Class Diagram
+![image](https://user-images.githubusercontent.com/79374942/135843975-7badff4f-3d57-4c7a-97d7-85a162d70254.png)
+
+
+## ER Diagram
+![image](https://user-images.githubusercontent.com/79374942/135843900-d1da3399-9a2f-4b75-9229-477b53123f4d.png)
